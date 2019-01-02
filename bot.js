@@ -19,4 +19,4 @@ client.on('message', msg => {
 });
 
 
-client.login('BOT_TOKEN');
+client.login('token');
