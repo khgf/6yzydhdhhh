@@ -1,0 +1,6 @@
+owner=513313542200492056
+prefix=%
+game=%play | By 7N3F
+stayinchannel=false
+songinstatus=false
+token=NTQ2MDY2ODgxMzA4NjU1NjE3.D0i0EQ.Mb4F3t7zzG1_hGIXAW9u0PKOaHQ
