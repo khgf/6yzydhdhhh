@@ -3,4 +3,4 @@ prefix=2
 game=2help | By 7N3F
 stayinchannel=false
 songinstatus=false
-token=NTQ2MDY2ODgxMzA4NjU1NjE3.D0i0EQ.Mb4F3t7zzG1_hGIXAW9u0PKOaHQ
+token=NTQ2NjU4NjQ5OTU1ODkzMjQ4.D0rdSQ.ljG8z4M2MraJgemkBhPTzrNw5jI
